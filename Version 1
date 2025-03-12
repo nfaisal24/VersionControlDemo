@@ -1,0 +1,11 @@
+#This program will ask for the user's first and last name before welcoming them to Python
+
+#Asking the user for their first name
+first_name = input("What is your first name? ")
+
+#Asking the user for their last name
+last_name = input("What is your last name? ")
+
+#Welcoming the user to Python
+print("Welcome to Python", first_name, last_name + "! :)")
+
